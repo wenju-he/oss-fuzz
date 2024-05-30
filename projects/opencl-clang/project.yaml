@@ -1,0 +1,7 @@
+homepage: https://github.com/intel/opencl-clang
+main_repo: https://github.com/intel/opencl-clang
+language: c++
+primary_contact: "wenju.he@intel.com"
+auto_ccs:
+  - "chunyang.dai@intel.com"
+  - "haonan.yang@intel.com"
